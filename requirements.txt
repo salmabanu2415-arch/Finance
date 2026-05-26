@@ -7,4 +7,4 @@ pypdf==5.1.0
 python-dotenv==1.0.1
 streamlit==1.41.1
 tiktoken==0.8.0
-PYTHON_VERSION=3.11.9
+
